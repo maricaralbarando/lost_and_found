@@ -14,3 +14,10 @@
    <link href="<?php echo base_url('assets/css/custom.css') ?>" rel="stylesheet">
 </head>
 <body>
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
+   <div class="container-fluid">
+    <span><h2> UPHSL Lost & Found </h2></span>
+    </div>
+</nav>
+<div class="container">
+
